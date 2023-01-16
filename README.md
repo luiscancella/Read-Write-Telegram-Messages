@@ -20,7 +20,7 @@ Instale o arquivo por git clone ou direto pelo link https://github.com/luiscance
 Pré-requisitos:
 
         Python
-        Google Chrome instalado (para usar seus binparios)
+        Google Chrome instalado (para usar seus binarios)
         Bibliotecas:
           - BeautifulSoup4
           - Selenium
