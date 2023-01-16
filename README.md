@@ -10,7 +10,7 @@ It was made with the intention of reading Telegram chats, since the api does not
 
 
 
-- = 🇧🇷 = -
+- 🇧🇷
       Como Instalar?
 Instale o arquivo por git clone ou direto pelo link https://github.com/luiscancella/Read-Write-Telegram-Messages/archive/refs/heads/main.zip
 
@@ -18,13 +18,13 @@ Instale o arquivo por git clone ou direto pelo link https://github.com/luiscance
 Como usar?
 
       Pré-requisitos:
-        Python
-        Google Chrome instalado (para usar seus binparios)
-        Bibliotecas:
-          -BeautifulSoup4
-          -Selenium
-          -pyTelegramBotAPI
-          -webdriver-manager
+        - Python
+        - Google Chrome instalado (para usar seus binparios)
+        - Bibliotecas:
+          - BeautifulSoup4
+          - Selenium
+          - pyTelegramBotAPI
+          - webdriver-manager
 
 Com tudo instalado, mude o arquivo config.txt para conter 3 linhas, com as seguintes instruções:
 
@@ -40,5 +40,3 @@ Exemplo:
 
 
 nota: O id de chat pode ser pego geralmente pela url
-
-- = 🇺🇸 = -
