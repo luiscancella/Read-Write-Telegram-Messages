@@ -20,7 +20,7 @@ Instale o arquivo por git clone ou direto pelo link https://github.com/luiscance
 Pré-requisitos:
 
         Python
-        Google Chrome instalado (para usar seus binarios)
+        Google Chrome instalado (para usar seus binários)
         Bibliotecas:
           - BeautifulSoup4
           - Selenium
@@ -31,7 +31,7 @@ Com tudo instalado, mude o arquivo config.txt para conter 3 linhas, com as segui
 
       1 linha : coloque token do seu bot (pego pelo BotFather)
       2 linha : coloque o id do chat que será lido
-      3 linha : coloque os ids dos chat que serão reencaminhados as mensagens separados por vírgulas sem espaço
+      3 linha : coloque os ids dos chats que serão reencaminhados as mensagens separados por vírgulas sem espaço
 
 Exemplo:
 
