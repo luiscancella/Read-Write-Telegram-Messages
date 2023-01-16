@@ -11,12 +11,12 @@ It was made with the intention of reading Telegram chats, since the api does not
 
 🇧🇷
 
-Como Instalar?
+- Como Instalar?
 
 Instale o arquivo por git clone ou direto pelo link https://github.com/luiscancella/Read-Write-Telegram-Messages/archive/refs/heads/main.zip
 
 
-Como usar?
+- Como usar?
 
 Pré-requisitos:
 
@@ -40,16 +40,15 @@ Exemplo:
       -3333333
       -123123123,-321321321,-33333333,-9999999999
 nota: O id de chat pode ser pego geralmente pela url
-
 -
 
 🇺🇸
 
-How to install?
+- How to install?
 
 Install the file via git clone or direct via the link https://github.com/luiscancella/Read-Write-Telegram-Messages/archive/refs/heads/main.zip
 
-How to use?
+- How to use?
 
 Prerequisites:
 
