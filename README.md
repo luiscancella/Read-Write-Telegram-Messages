@@ -12,6 +12,8 @@ Ele foi feito com o intuito de ler chats do Telegram, já que a api não esse of
 Script made to read messages from groups/chat on Telegram and share to others through a telegram bot.
 It was made with the intention of reading Telegram chats, since the api does not support it, and it can be changed so that the person treats the data the way they want.
 
+🇧🇷
+-
 
 - Como Instalar?
 
