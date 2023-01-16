@@ -42,10 +42,9 @@ Exemplo:
       -123123123,-321321321,-33333333,-9999999999
 nota: O id de chat pode ser pego geralmente pela url
 -
--
+
 - 🇺🇸
--
--
+
 How to install?
 
 Install the file via git clone or direct via the link https://github.com/luiscancella/Read-Write-Telegram-Messages/archive/refs/heads/main.zip
