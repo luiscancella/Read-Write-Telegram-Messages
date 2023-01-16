@@ -1,12 +1,10 @@
 # Read-Write-Telegram-Messages
 
-🇧🇷
 -
 
 Script feito para ler mensagens de grupos/chat no Telegram e compartilhar para outros atraves de um bot do telegram.
 Ele foi feito com o intuito de ler chats do Telegram, já que a api não esse oferece suporte, e poder ser mudado para que a pessoa trate os dados da forma que quiser.
 
-🇺🇸
 -
 
 Script made to read messages from groups/chat on Telegram and share to others through a telegram bot.
