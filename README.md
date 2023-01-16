@@ -42,3 +42,6 @@ Exemplo:
 
 
 nota: O id de chat pode ser pego geralmente pela url
+
+- 🇺🇸
+
