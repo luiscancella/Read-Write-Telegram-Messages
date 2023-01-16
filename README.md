@@ -39,9 +39,32 @@ Exemplo:
       k5k4kkjj4jj4jnm5nm5nm
       -3333333
       -123123123,-321321321,-33333333,-9999999999
-
-
 nota: O id de chat pode ser pego geralmente pela url
 
 - 🇺🇸
 
+How to install?
+
+Install the file via git clone or direct via the link https://github.com/luiscancella/Read-Write-Telegram-Messages/archive/refs/heads/main.zip
+
+How to use?
+
+      Prerequisites:
+      - Python
+      - Google Chrome installed (to use its binaries)
+      - Libraries:
+        - BeautifulSoup4
+        - Selenium
+        - pyTelegramBotAPI
+        -webdriver-manager
+      
+With everything installed, change the config.txt file to contain 3 lines, with the following instructions:
+
+      1 line : put your bot's token (taken by BotFather)
+      2nd line: put the id of the chat that will be read
+      3rd line: put the ids of the chats that will be forwarded the messages separated by commas without spaces
+Example:
+      k5k4kkjj4jj4jnm5nm5nm
+      -3333333
+      -123123123, -321321321, -33333333, -9999999999
+note: The chat id can usually be retrieved from the url
