@@ -11,7 +11,9 @@ It was made with the intention of reading Telegram chats, since the api does not
 
 
 - 🇧🇷
-      Como Instalar?
+
+Como Instalar?
+
 Instale o arquivo por git clone ou direto pelo link https://github.com/luiscancella/Read-Write-Telegram-Messages/archive/refs/heads/main.zip
 
 
