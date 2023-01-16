@@ -1,0 +1,3 @@
+<delete this line and input your bot token>
+<delete this line and input your read chat | example: -123123123>
+<delete this line and input your write chats split by "," | example: -123123123,321321312,11111111,222222222>
