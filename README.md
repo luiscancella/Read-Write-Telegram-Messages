@@ -63,7 +63,9 @@ With everything installed, change the config.txt file to contain 3 lines, with t
       1 line : put your bot's token (taken by BotFather)
       2nd line: put the id of the chat that will be read
       3rd line: put the ids of the chats that will be forwarded the messages separated by commas without spaces
+
 Example:
+
       k5k4kkjj4jj4jnm5nm5nm
       -3333333
       -123123123, -321321321, -33333333, -9999999999
