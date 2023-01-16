@@ -40,9 +40,10 @@ Exemplo:
       -3333333
       -123123123,-321321321,-33333333,-9999999999
 nota: O id de chat pode ser pego geralmente pela url
+
 -
 
-- 🇺🇸
+🇺🇸
 
 How to install?
 
