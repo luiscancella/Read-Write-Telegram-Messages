@@ -19,7 +19,8 @@ Instale o arquivo por git clone ou direto pelo link https://github.com/luiscance
 
 Como usar?
 
-      Pré-requisitos:
+Pré-requisitos:
+
         Python
         Google Chrome instalado (para usar seus binparios)
         Bibliotecas:
@@ -49,7 +50,8 @@ Install the file via git clone or direct via the link https://github.com/luiscan
 
 How to use?
 
-      Prerequisites:
+Prerequisites:
+
         Python
         Google Chrome installed (to use its binaries)
         Libraries:
