@@ -48,7 +48,6 @@ token = config[0].rstrip("\n")
 id_chat_read = config[1].rstrip("\n")
 id_chat_write = config[2].split(',')
 bot = telebot.TeleBot(token)
-espera = 20 * 60
 
 #   Selenium CONFIG
 sservice = Service(ChromeDriverManager().install())
