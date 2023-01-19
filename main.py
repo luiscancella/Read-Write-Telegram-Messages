@@ -66,6 +66,7 @@ sleep(2)
 print("Opened!")
 
 #   Verify Messagens
+old_msg = getMsgs()
 while True:
     new_msg = getMsgs()
     if len(new_msg) != len(old_msg):
